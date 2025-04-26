@@ -47,6 +47,7 @@ O plano contempla a validação dos seguintes pontos:
 Além da automação, este repositório também inclui os seguintes artefatos:
 
 - 📄 [Plano de Testes](#https://drive.google.com/file/d/19q7twQ6aENJiqC_n8F91BYXkbSU4dcVb/view?usp=sharing)
+https://drive.google.com/file/d/19q7twQ6aENJiqC_n8F91BYXkbSU4dcVb/view?usp=sharing
 - 📄 [Especificação dos Casos de Teste](#https://drive.google.com/file/d/12mlEThn5tAwrZkwjNUrJtSSpdA5_GJtg/view?usp=sharing)
 - 📄 [Relatório de Testes Executados](#https://drive.google.com/file/d/1cB2nmSg9Fby-qONU0m5CErzlry5wNvrg/view?usp=sharing)
 - 📄 [Especificação de Bugs Encontrados](#https://drive.google.com/file/d/15dqkV8yRsSiAowA_j2MAxJY4ll0ZPbeA/view?usp=sharing)
